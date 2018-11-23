@@ -2,5 +2,9 @@ Let's do some tests and see the differences in Git
 
 :)
 
+<<<<<<< HEAD
 
 ---> This is added locally
+=======
+This is another line remotely. Let's see if there is any conflict :)
+>>>>>>> refs/remotes/origin/master
